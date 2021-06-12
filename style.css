@@ -30,7 +30,7 @@
   border-color: #ccc;
 }
 
-.tab_active {
+.tab--active {
   border-color: #ccc;
   background-color: #fff;
 }
